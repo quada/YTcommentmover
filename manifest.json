@@ -7,7 +7,7 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["thirdParty/jquery-3.1.1.min.js", "youtube-comment-mover_rev1.js"]
+      "js": ["thirdParty/jquery-3.1.1.min.js", "youtube-comment-mover.js"]
     }
   ]
 }
