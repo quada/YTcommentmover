@@ -7,6 +7,7 @@ Move comments to sidebar
 if(window.location.href.indexOf("youtube") > -1) {
 
 window.scrollTo(0, $("#footer-container").offset().top);
+window.scrollTo(0, $("#body-container").offset().top);
 
 setTimeout(
   function() 
